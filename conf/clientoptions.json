@@ -13,8 +13,8 @@
         "clientWindowIsBorderless": false,
         "clientWindowIsMaximized": true,
         "clientWindowPositionX": 1920,
-        "clientWindowPositionY": 117,
-        "clientWindowScreenName": "\\\\.\\DISPLAY1",
+        "clientWindowPositionY": 31,
+        "clientWindowScreenName": "\\\\.\\DISPLAY2",
         "clientWindowWidth": 1020
     },
     "controlButtonsOptions": {
@@ -850,6 +850,14 @@
                     "mappings": [
                         {
                             "actionBar": 1,
+                            "actionButton": 9,
+                            "actionsetting": {
+                                "chatText": "exori mas",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 1,
                             "actionButton": 1,
                             "actionsetting": {
                                 "chatText": "exura ico",
@@ -858,9 +866,9 @@
                         },
                         {
                             "actionBar": 1,
-                            "actionButton": 9,
+                            "actionButton": 10,
                             "actionsetting": {
-                                "chatText": "exori mas",
+                                "chatText": "/ghost",
                                 "sendAutomatically": true
                             }
                         },
@@ -874,9 +882,9 @@
                         },
                         {
                             "actionBar": 1,
-                            "actionButton": 10,
+                            "actionButton": 11,
                             "actionsetting": {
-                                "chatText": "/ghost",
+                                "chatText": "exori",
                                 "sendAutomatically": true
                             }
                         },
@@ -890,10 +898,10 @@
                         },
                         {
                             "actionBar": 1,
-                            "actionButton": 11,
+                            "actionButton": 12,
                             "actionsetting": {
-                                "chatText": "exori",
-                                "sendAutomatically": true
+                                "useObject": 32711,
+                                "useType": "SelectUseTarget"
                             }
                         },
                         {
@@ -902,14 +910,6 @@
                             "actionsetting": {
                                 "chatText": "exori mas",
                                 "sendAutomatically": true
-                            }
-                        },
-                        {
-                            "actionBar": 1,
-                            "actionButton": 12,
-                            "actionsetting": {
-                                "useObject": 3161,
-                                "useType": "UseOnTarget"
                             }
                         },
                         {
@@ -3234,7 +3234,7 @@
         "emergencyDialogVersion": 0,
         "frameRateLimit": 60,
         "frameRateLimitEnabled": true,
-        "gameWindowLowerPaneHeight": 206,
+        "gameWindowLowerPaneHeight": 299,
         "gameWindowResizingMode": 0,
         "gameWindowScaleOnlyByEvenMultiples": false,
         "gameWindowShowBoostedCreatureMessages": true,
@@ -3251,7 +3251,7 @@
         "gameWindowShowTargetHighlight": true,
         "gameWindowShowTextualEffects": true,
         "gameWindowShowTragetFrame": true,
-        "gameWindowUpperPaneHeight": 742,
+        "gameWindowUpperPaneHeight": 469,
         "inspectPlayerAllowAllEnabled": false,
         "keyboardDelayMs": 250,
         "keyboardDelayUseDefault": true,

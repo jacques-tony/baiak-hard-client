@@ -280,3 +280,333 @@
 [ 2025-04-02 08:42:20,157 ] Retrying to obtain clipboard.
 [ 2025-04-02 08:42:32,246 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"  was disconnected ( "The remote host closed the connection" )
 [ 2025-04-02 08:42:32,298 ] Disconnected from gameserver
+[ 2025-04-02 13:08:00,592 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-04-02 13:08:00,977 ] Using spritesheet cache size of 910
+[ 2025-04-02 13:08:02,446 ] Asset loading complete
+[ 2025-04-02 13:08:15,435 ] BattlEye: "Initialized (v1.249)"
+[ 2025-04-02 13:08:15,435 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2025-04-02 13:08:15,435 ] BattlEye: "Restarting client is necessary, update required"
+[ 2025-04-02 13:08:15,435 ] BattlEye: "Config entry: GameID tibia"
+[ 2025-04-02 13:08:15,435 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2025-04-02 13:08:15,520 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Habla Combo" )
+[ 2025-04-02 13:08:15,526 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-02 13:08:15,538 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-02 13:09:03,133 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342179939 found"
+[ 2025-04-02 13:10:29,604 ] Retrying to obtain clipboard.
+[ 2025-04-02 13:12:59,713 ] Retrying to obtain clipboard.
+[ 2025-04-02 13:12:59,764 ] Retrying to obtain clipboard.
+[ 2025-04-02 13:14:42,354 ] Retrying to obtain clipboard.
+[ 2025-04-02 13:26:38,742 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"  was disconnected ( "The remote host closed the connection" )
+[ 2025-04-02 13:26:38,797 ] Disconnected from gameserver
+[ 2025-04-03 20:25:57,733 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-04-03 20:25:58,133 ] Using spritesheet cache size of 910
+[ 2025-04-03 20:25:59,518 ] Asset loading complete
+[ 2025-04-03 20:26:06,695 ] BattlEye: "Initialized (v1.249)"
+[ 2025-04-03 20:26:06,695 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2025-04-03 20:26:06,695 ] BattlEye: "Restarting client is necessary, update required"
+[ 2025-04-03 20:26:06,695 ] BattlEye: "Config entry: GameID tibia"
+[ 2025-04-03 20:26:06,695 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2025-04-03 20:26:06,785 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Habla Combo" )
+[ 2025-04-03 20:26:06,792 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-03 20:26:06,804 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-03 20:26:27,974 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"  was disconnected ( "The remote host closed the connection" )
+[ 2025-04-03 20:26:28,026 ] Disconnected from gameserver
+[ 2025-04-03 20:26:36,654 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-03 20:26:37,420 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "ADMIN" )
+[ 2025-04-03 20:26:37,423 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-03 20:26:37,433 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-03 20:26:38,374 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-03 20:26:57,574 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"  was disconnected ( "The remote host closed the connection" )
+[ 2025-04-03 20:26:57,622 ] Disconnected from gameserver
+[ 2025-04-03 20:26:57,646 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-03 20:27:05,308 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-03 20:27:06,155 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Habla Combo" )
+[ 2025-04-03 20:27:06,157 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-03 20:27:06,169 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-03 20:27:07,110 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-03 20:31:46,726 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"  was disconnected ( "The remote host closed the connection" )
+[ 2025-04-03 20:31:46,781 ] Disconnected from gameserver
+[ 2025-04-03 20:31:49,118 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-03 20:31:50,070 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Habla Combo" )
+[ 2025-04-03 20:31:50,075 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-03 20:31:50,086 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-03 20:31:51,018 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-03 20:31:55,445 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342180636 found"
+[ 2025-04-03 20:31:55,445 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342180636 found"
+[ 2025-04-03 20:31:56,450 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342180559 found"
+[ 2025-04-03 20:31:56,450 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342180559 found"
+[ 2025-04-03 20:31:56,450 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342180621 found"
+[ 2025-04-03 20:31:56,450 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342180621 found"
+[ 2025-04-04 10:47:24,401 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-04-04 10:47:24,821 ] Using spritesheet cache size of 910
+[ 2025-04-04 10:47:26,244 ] Asset loading complete
+[ 2025-04-04 10:47:33,058 ] BattlEye: "Initialized (v1.249)"
+[ 2025-04-04 10:47:33,058 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2025-04-04 10:47:33,058 ] BattlEye: "Restarting client is necessary, update required"
+[ 2025-04-04 10:47:33,058 ] BattlEye: "Config entry: GameID tibia"
+[ 2025-04-04 10:47:33,058 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2025-04-04 10:47:33,153 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Habla Combo" )
+[ 2025-04-04 10:47:33,161 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-04 10:47:33,173 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-04 10:52:47,698 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"  was disconnected ( "The remote host closed the connection" )
+[ 2025-04-04 10:52:47,768 ] Disconnected from gameserver
+[ 2025-04-04 10:52:50,450 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Habla Combo" )
+[ 2025-04-04 10:52:50,454 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-04 10:52:51,409 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-04 10:52:51,475 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-04 10:52:53,015 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342180496 found"
+[ 2025-04-04 10:52:57,588 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342180657 found"
+[ 2025-04-04 10:52:58,734 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342180576 found"
+[ 2025-04-04 10:52:58,734 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342180576 found"
+[ 2025-04-04 10:52:58,734 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342180653 found"
+[ 2025-04-04 10:52:58,734 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342180653 found"
+[ 2025-04-04 10:52:58,734 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342180578 found"
+[ 2025-04-04 10:52:58,734 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342180578 found"
+[ 2025-04-04 10:55:36,497 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"  was disconnected ( "The remote host closed the connection" )
+[ 2025-04-04 10:55:36,549 ] Disconnected from gameserver
+[ 2025-04-04 10:55:36,582 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-04 10:55:43,852 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-04 10:55:44,599 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "ADMIN" )
+[ 2025-04-04 10:55:44,602 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-04 10:55:44,613 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-04 10:55:45,547 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-04 10:56:01,136 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-04 10:56:02,747 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"  was disconnected ( "The remote host closed the connection" )
+[ 2025-04-04 10:56:02,797 ] Disconnected from gameserver
+[ 2025-04-04 10:56:02,905 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2025-04-04 10:56:02,907 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-04 10:56:02,920 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-04 10:56:03,860 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-04 10:56:06,269 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-04 10:56:07,600 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"  was disconnected ( "The remote host closed the connection" )
+[ 2025-04-04 10:56:07,647 ] Disconnected from gameserver
+[ 2025-04-04 10:56:07,753 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "ADMIN" )
+[ 2025-04-04 10:56:07,755 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-04 10:56:07,767 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-04 10:56:08,704 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-04 10:56:26,750 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"  was disconnected ( "The remote host closed the connection" )
+[ 2025-04-04 10:56:26,798 ] Disconnected from gameserver
+[ 2025-04-04 10:56:26,823 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-04 10:56:36,049 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-04 10:56:36,585 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "ADMIN" )
+[ 2025-04-04 10:56:36,586 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-04 10:56:36,599 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-04 10:56:37,533 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-04 10:57:11,849 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"  was disconnected ( "The remote host closed the connection" )
+[ 2025-04-04 10:57:11,907 ] Disconnected from gameserver
+[ 2025-04-04 10:57:13,548 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-04 10:57:14,317 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "ADMIN" )
+[ 2025-04-04 10:57:14,320 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-04 10:57:15,265 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-04 10:57:15,852 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-04 11:35:22,410 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342188588 found"
+[ 2025-04-04 11:35:22,410 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342188588 found"
+[ 2025-04-04 11:39:49,914 ] Retrying to obtain clipboard.
+[ 2025-04-04 12:51:45,501 ] Retrying to obtain clipboard.
+[ 2025-04-04 17:27:10,897 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-04-04 17:27:11,319 ] Using spritesheet cache size of 910
+[ 2025-04-04 17:27:12,708 ] Asset loading complete
+[ 2025-04-04 17:27:57,952 ] BattlEye: "Initialized (v1.249)"
+[ 2025-04-04 17:27:57,952 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2025-04-04 17:27:57,952 ] BattlEye: "Restarting client is necessary, update required"
+[ 2025-04-04 17:27:57,952 ] BattlEye: "Config entry: GameID tibia"
+[ 2025-04-04 17:27:57,952 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2025-04-04 17:27:58,026 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Habla Combo" )
+[ 2025-04-04 17:27:58,034 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-04 17:27:58,045 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-04 17:28:46,210 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"  was disconnected ( "The remote host closed the connection" )
+[ 2025-04-04 17:28:46,263 ] Disconnected from gameserver
+[ 2025-04-04 17:28:52,589 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Habla Combo" )
+[ 2025-04-04 17:28:52,592 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-04 17:28:53,531 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-04 17:28:54,109 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-04 17:29:01,628 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342188054 found"
+[ 2025-04-04 17:29:01,628 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342188054 found"
+[ 2025-04-04 17:29:50,410 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"  was disconnected ( "The remote host closed the connection" )
+[ 2025-04-04 17:29:50,461 ] Disconnected from gameserver
+[ 2025-04-04 17:31:14,984 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-04 17:31:15,821 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Habla Combo" )
+[ 2025-04-04 17:31:15,823 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-04 17:31:15,835 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-04 17:31:16,766 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-04 17:34:13,759 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193111 found"
+[ 2025-04-04 17:34:13,759 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193111 found"
+[ 2025-04-04 17:35:13,766 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193111 found"
+[ 2025-04-04 17:35:13,766 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193111 found"
+[ 2025-04-04 17:36:13,779 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193112 found"
+[ 2025-04-04 17:36:13,779 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193112 found"
+[ 2025-04-04 17:37:13,794 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193112 found"
+[ 2025-04-04 17:37:13,794 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193112 found"
+[ 2025-04-04 17:41:13,813 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342188056 found"
+[ 2025-04-04 17:41:13,813 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342188056 found"
+[ 2025-04-04 17:42:13,827 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342188056 found"
+[ 2025-04-04 17:42:13,827 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342188056 found"
+[ 2025-04-04 17:44:13,830 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193109 found"
+[ 2025-04-04 17:44:13,830 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193109 found"
+[ 2025-04-04 17:45:13,831 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193109 found"
+[ 2025-04-04 17:45:13,831 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193109 found"
+[ 2025-04-04 17:45:13,831 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193161 found"
+[ 2025-04-04 17:45:13,831 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193161 found"
+[ 2025-04-04 17:46:13,834 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342188058 found"
+[ 2025-04-04 17:46:13,834 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342188058 found"
+[ 2025-04-04 17:46:13,834 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193161 found"
+[ 2025-04-04 17:46:13,834 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193161 found"
+[ 2025-04-04 17:47:13,828 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342188058 found"
+[ 2025-04-04 17:47:13,828 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342188058 found"
+[ 2025-04-04 17:50:20,660 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"  was disconnected ( "The remote host closed the connection" )
+[ 2025-04-04 17:50:20,711 ] Disconnected from gameserver
+[ 2025-04-04 20:31:28,108 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-05 11:06:56,479 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-04-05 11:06:56,875 ] Using spritesheet cache size of 910
+[ 2025-04-05 11:06:58,196 ] Asset loading complete
+[ 2025-04-05 11:07:09,618 ] BattlEye: "Initialized (v1.249)"
+[ 2025-04-05 11:07:09,618 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2025-04-05 11:07:09,619 ] BattlEye: "Restarting client is necessary, update required"
+[ 2025-04-05 11:07:09,619 ] BattlEye: "Config entry: GameID tibia"
+[ 2025-04-05 11:07:09,619 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2025-04-05 11:07:09,696 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "ADMIN" )
+[ 2025-04-05 11:07:09,705 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-05 11:07:09,718 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-05 11:19:53,548 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"  was disconnected ( "The remote host closed the connection" )
+[ 2025-04-05 11:19:53,599 ] Disconnected from gameserver
+[ 2025-04-05 11:20:13,833 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "ADMIN" )
+[ 2025-04-05 11:20:13,836 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-05 11:20:13,849 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-05 11:20:14,781 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-05 11:24:18,298 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"  was disconnected ( "The remote host closed the connection" )
+[ 2025-04-05 11:24:18,347 ] Disconnected from gameserver
+[ 2025-04-05 11:24:25,416 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-05 11:24:26,265 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "ADMIN" )
+[ 2025-04-05 11:24:26,268 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-05 11:24:26,280 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-05 11:24:27,207 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-05 11:28:30,366 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193242 found"
+[ 2025-04-05 11:28:30,366 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193242 found"
+[ 2025-04-05 11:29:30,380 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193242 found"
+[ 2025-04-05 11:29:30,380 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193242 found"
+[ 2025-04-05 11:29:30,380 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342178077 found"
+[ 2025-04-05 11:29:30,380 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342178077 found"
+[ 2025-04-05 11:30:30,384 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342178077 found"
+[ 2025-04-05 11:30:30,384 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342178077 found"
+[ 2025-04-05 11:33:30,412 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193240 found"
+[ 2025-04-05 11:33:30,412 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193240 found"
+[ 2025-04-05 11:34:30,419 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193240 found"
+[ 2025-04-05 11:34:30,419 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193240 found"
+[ 2025-04-05 11:42:54,079 ] Retrying to obtain clipboard.
+[ 2025-04-05 11:43:10,548 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"  was disconnected ( "The remote host closed the connection" )
+[ 2025-04-05 11:43:10,603 ] Disconnected from gameserver
+[ 2025-04-05 11:43:18,663 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-05 11:43:19,470 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "ADMIN" )
+[ 2025-04-05 11:43:19,472 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-05 11:43:19,484 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-05 11:43:19,548 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"  was disconnected ( "The remote host closed the connection" )
+[ 2025-04-05 11:43:19,554 ] Disconnected from gameserver
+[ 2025-04-05 11:43:20,422 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-05 11:43:49,782 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-05 11:43:53,822 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "ADMIN" )
+[ 2025-04-05 11:43:53,827 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-05 11:43:53,838 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-05 11:43:53,898 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"  was disconnected ( "The remote host closed the connection" )
+[ 2025-04-05 11:43:53,903 ] Disconnected from gameserver
+[ 2025-04-05 11:43:54,782 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-05 11:44:21,293 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-05 11:44:23,705 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "ADMIN" )
+[ 2025-04-05 11:44:23,710 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-05 11:44:23,721 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-05 11:44:23,798 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"  was disconnected ( "The remote host closed the connection" )
+[ 2025-04-05 11:44:23,804 ] Disconnected from gameserver
+[ 2025-04-05 11:44:24,659 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-05 11:58:21,860 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-05 11:58:22,603 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "ADMIN" )
+[ 2025-04-05 11:58:22,605 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-05 11:58:22,617 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-05 11:58:23,565 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-05 11:58:27,110 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193241 found"
+[ 2025-04-05 11:58:27,110 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193241 found"
+[ 2025-04-05 11:58:28,122 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193240 found"
+[ 2025-04-05 11:58:28,122 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193240 found"
+[ 2025-04-05 11:58:28,123 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342177666 found"
+[ 2025-04-05 11:58:28,123 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342177666 found"
+[ 2025-04-05 11:59:27,133 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193241 found"
+[ 2025-04-05 11:59:27,133 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193241 found"
+[ 2025-04-05 12:01:40,613 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-05 12:01:41,748 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"  was disconnected ( "The remote host closed the connection" )
+[ 2025-04-05 12:01:41,800 ] Disconnected from gameserver
+[ 2025-04-05 12:01:41,828 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-05 12:01:51,355 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-05 12:01:52,167 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Habla Combo" )
+[ 2025-04-05 12:01:52,170 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-05 12:01:52,183 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-05 12:01:53,124 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-05 12:08:27,194 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193163 found"
+[ 2025-04-05 12:08:27,194 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193163 found"
+[ 2025-04-05 12:09:27,208 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193163 found"
+[ 2025-04-05 12:09:27,208 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193163 found"
+[ 2025-04-05 12:12:27,227 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193164 found"
+[ 2025-04-05 12:12:27,227 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193164 found"
+[ 2025-04-05 12:12:41,898 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"  was disconnected ( "The remote host closed the connection" )
+[ 2025-04-05 12:12:41,952 ] Disconnected from gameserver
+[ 2025-04-05 12:13:09,458 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-05 12:13:10,774 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Habla Combo" )
+[ 2025-04-05 12:13:10,777 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-05 12:13:10,789 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-05 12:13:11,734 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-05 12:13:15,184 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193107 found"
+[ 2025-04-05 12:13:15,184 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193107 found"
+[ 2025-04-05 12:13:16,198 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342188056 found"
+[ 2025-04-05 12:13:16,198 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342188056 found"
+[ 2025-04-05 12:13:16,198 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193108 found"
+[ 2025-04-05 12:13:16,198 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193108 found"
+[ 2025-04-05 12:13:24,598 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"  was disconnected ( "The remote host closed the connection" )
+[ 2025-04-05 12:13:24,647 ] Disconnected from gameserver
+[ 2025-04-05 12:13:24,675 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-05 12:13:32,748 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-05 12:13:33,299 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "ADMIN" )
+[ 2025-04-05 12:13:33,302 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-05 12:13:33,313 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-05 12:13:34,251 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-05 12:27:15,285 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342178612 found"
+[ 2025-04-05 12:27:15,285 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342178612 found"
+[ 2025-04-05 12:28:15,289 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342178612 found"
+[ 2025-04-05 12:28:15,289 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342178612 found"
+[ 2025-04-05 12:28:15,289 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193163 found"
+[ 2025-04-05 12:28:15,289 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193163 found"
+[ 2025-04-05 12:29:15,287 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193163 found"
+[ 2025-04-05 12:29:15,287 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193163 found"
+[ 2025-04-05 12:33:15,331 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193240 found"
+[ 2025-04-05 12:33:15,331 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193240 found"
+[ 2025-04-05 12:34:15,336 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193240 found"
+[ 2025-04-05 12:34:15,336 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193240 found"
+[ 2025-04-05 12:38:15,355 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193162 found"
+[ 2025-04-05 12:38:15,355 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193162 found"
+[ 2025-04-05 12:39:15,367 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193162 found"
+[ 2025-04-05 12:39:15,367 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193162 found"
+[ 2025-04-05 12:51:44,948 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"  was disconnected ( "The remote host closed the connection" )
+[ 2025-04-05 12:51:45,003 ] Disconnected from gameserver
+[ 2025-04-05 12:51:54,950 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-05 12:51:55,439 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "ADMIN" )
+[ 2025-04-05 12:51:55,442 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-05 12:51:55,453 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-05 12:51:56,391 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-05 13:01:54,547 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193187 found"
+[ 2025-04-05 13:01:54,547 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193187 found"
+[ 2025-04-05 13:02:54,561 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193187 found"
+[ 2025-04-05 13:02:54,561 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193187 found"
+[ 2025-04-05 13:33:54,824 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193189 found"
+[ 2025-04-05 13:33:54,824 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193189 found"
+[ 2025-04-05 13:34:54,827 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193189 found"
+[ 2025-04-05 13:34:54,827 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193189 found"
+[ 2025-04-05 14:00:55,044 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193186 found"
+[ 2025-04-05 14:00:55,044 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193186 found"
+[ 2025-04-05 14:01:55,055 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193189 found"
+[ 2025-04-05 14:01:55,055 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193189 found"
+[ 2025-04-05 14:01:55,055 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193186 found"
+[ 2025-04-05 14:01:55,055 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193186 found"
+[ 2025-04-05 14:02:55,068 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193189 found"
+[ 2025-04-05 14:02:55,068 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193189 found"
+[ 2025-04-05 14:26:55,238 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193186 found"
+[ 2025-04-05 14:26:55,238 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193186 found"
+[ 2025-04-05 14:27:55,242 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193186 found"
+[ 2025-04-05 14:27:55,242 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193186 found"
+[ 2025-04-05 15:12:20,798 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"  was disconnected ( "The remote host closed the connection" )
+[ 2025-04-05 15:12:20,873 ] Disconnected from gameserver

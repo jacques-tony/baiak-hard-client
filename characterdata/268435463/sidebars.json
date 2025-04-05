@@ -51,10 +51,6 @@
         "sortOrder": "ascending"
     },
     "containersOptions": {
-        "0": {
-            "contentHeight": 158,
-            "contentMaximized": true
-        }
     },
     "damageInputAnalyserWidgetOptions": {
         "contentHeight": 0,
@@ -127,6 +123,10 @@
         "leftSidebarCount": 0,
         "openWidgetsOrderPerSidebar": [
             [
+                {
+                    "instance": 1,
+                    "type": "container"
+                },
                 {
                     "instance": 0,
                     "type": "container"
