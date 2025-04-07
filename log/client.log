@@ -610,3 +610,400 @@
 [ 2025-04-05 14:27:55,242 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342193186 found"
 [ 2025-04-05 15:12:20,798 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"  was disconnected ( "The remote host closed the connection" )
 [ 2025-04-05 15:12:20,873 ] Disconnected from gameserver
+[ 2025-04-05 15:39:13,228 ] Retrying to obtain clipboard.
+[ 2025-04-05 15:39:58,340 ] Retrying to obtain clipboard.
+[ 2025-04-05 17:02:54,355 ] Retrying to obtain clipboard.
+[ 2025-04-06 10:17:05,551 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-04-06 10:17:05,883 ] Using spritesheet cache size of 910
+[ 2025-04-06 10:17:07,227 ] Asset loading complete
+[ 2025-04-06 10:17:18,285 ] BattlEye: "Initialized (v1.249)"
+[ 2025-04-06 10:17:18,285 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2025-04-06 10:17:18,285 ] BattlEye: "Restarting client is necessary, update required"
+[ 2025-04-06 10:17:18,285 ] BattlEye: "Config entry: GameID tibia"
+[ 2025-04-06 10:17:18,285 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2025-04-06 10:17:18,387 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "ADMIN" )
+[ 2025-04-06 10:17:18,390 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-06 10:17:22,479 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"  was disconnected ( "Connection refused" )
+[ 2025-04-06 10:17:23,479 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-06 10:17:27,580 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"  was disconnected ( "Connection refused" )
+[ 2025-04-06 10:17:27,586 ] Disconnected from gameserver
+[ 2025-04-06 10:17:28,926 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "ADMIN" )
+[ 2025-04-06 10:17:28,930 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-06 10:17:33,030 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"  was disconnected ( "Connection refused" )
+[ 2025-04-06 10:17:34,030 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-06 10:17:34,040 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-06 10:19:11,130 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"  was disconnected ( "The remote host closed the connection" )
+[ 2025-04-06 10:19:11,183 ] Disconnected from gameserver
+[ 2025-04-06 10:19:14,854 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-06 10:19:16,604 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "ADMIN" )
+[ 2025-04-06 10:19:16,606 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-06 10:19:17,108 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-06 10:19:17,547 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-06 10:19:33,596 ] Retrying to obtain clipboard.
+[ 2025-04-06 10:19:33,647 ] Retrying to obtain clipboard.
+[ 2025-04-06 12:26:10,432 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"  was disconnected ( "The remote host closed the connection" )
+[ 2025-04-06 12:26:10,495 ] Disconnected from gameserver
+[ 2025-04-06 12:26:17,917 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-06 12:26:18,779 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "ADMIN" )
+[ 2025-04-06 12:26:18,783 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-06 12:26:19,720 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-06 12:26:19,796 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-06 16:07:07,207 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-04-06 16:07:07,514 ] Using spritesheet cache size of 910
+[ 2025-04-06 16:07:08,877 ] Asset loading complete
+[ 2025-04-06 16:07:21,294 ] BattlEye: "Initialized (v1.249)"
+[ 2025-04-06 16:07:21,294 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2025-04-06 16:07:21,294 ] BattlEye: "Restarting client is necessary, update required"
+[ 2025-04-06 16:07:21,294 ] BattlEye: "Config entry: GameID tibia"
+[ 2025-04-06 16:07:21,294 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2025-04-06 16:07:21,374 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Habla Combo" )
+[ 2025-04-06 16:07:21,381 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-06 16:07:21,695 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-06 16:07:23,476 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Habla Combo" )
+[ 2025-04-06 16:07:23,479 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-06 16:07:23,490 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-06 16:07:24,422 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-06 16:12:14,929 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"  was disconnected ( "The remote host closed the connection" )
+[ 2025-04-06 16:12:14,992 ] Disconnected from gameserver
+[ 2025-04-06 16:12:17,315 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-06 16:12:18,040 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Habla Combo" )
+[ 2025-04-06 16:12:18,043 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-06 16:12:18,555 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-06 16:12:18,984 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-06 16:14:22,079 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"  was disconnected ( "The remote host closed the connection" )
+[ 2025-04-06 16:14:22,129 ] Disconnected from gameserver
+[ 2025-04-06 16:18:26,907 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-06 16:18:27,211 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Habla Combo" )
+[ 2025-04-06 16:18:27,229 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-06 16:18:27,242 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-06 16:18:28,157 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-06 16:25:30,983 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342188506 found"
+[ 2025-04-06 16:25:30,983 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342188506 found"
+[ 2025-04-06 16:26:30,978 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342188506 found"
+[ 2025-04-06 16:26:30,978 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342188506 found"
+[ 2025-04-06 17:00:31,224 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342188522 found"
+[ 2025-04-06 17:00:31,224 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342188522 found"
+[ 2025-04-06 17:01:31,216 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342188522 found"
+[ 2025-04-06 17:01:31,217 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342188522 found"
+[ 2025-04-06 17:38:31,444 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342188522 found"
+[ 2025-04-06 17:38:31,444 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342188522 found"
+[ 2025-04-06 17:39:31,455 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342188522 found"
+[ 2025-04-06 17:39:31,455 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342188522 found"
+[ 2025-04-06 18:15:31,728 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342188506 found"
+[ 2025-04-06 18:15:31,728 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342188506 found"
+[ 2025-04-06 18:16:31,742 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342188506 found"
+[ 2025-04-06 18:16:31,742 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342188506 found"
+[ 2025-04-06 18:59:31,989 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342188522 found"
+[ 2025-04-06 18:59:31,989 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342188522 found"
+[ 2025-04-06 19:00:31,986 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342188522 found"
+[ 2025-04-06 19:00:31,986 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342188522 found"
+[ 2025-04-06 19:08:32,065 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342188506 found"
+[ 2025-04-06 19:08:32,066 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342188506 found"
+[ 2025-04-06 19:09:32,065 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342188506 found"
+[ 2025-04-06 19:09:32,065 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342188506 found"
+[ 2025-04-06 19:51:37,215 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342188522 found"
+[ 2025-04-06 19:51:37,215 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342188522 found"
+[ 2025-04-06 19:52:37,221 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342188522 found"
+[ 2025-04-06 19:52:37,221 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342188522 found"
+[ 2025-04-06 20:07:32,450 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342188506 found"
+[ 2025-04-06 20:07:32,450 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342188506 found"
+[ 2025-04-06 20:08:32,445 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342188506 found"
+[ 2025-04-06 20:08:32,445 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342188506 found"
+[ 2025-04-07 07:42:29,751 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-04-07 07:42:30,054 ] Using spritesheet cache size of 910
+[ 2025-04-07 07:42:31,304 ] Asset loading complete
+[ 2025-04-07 07:42:38,212 ] BattlEye: "Initialized (v1.249)"
+[ 2025-04-07 07:42:38,212 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2025-04-07 07:42:38,212 ] BattlEye: "Restarting client is necessary, update required"
+[ 2025-04-07 07:42:38,212 ] BattlEye: "Config entry: GameID tibia"
+[ 2025-04-07 07:42:38,212 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2025-04-07 07:42:38,282 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Habla Combo" )
+[ 2025-04-07 07:42:38,289 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-07 07:42:38,300 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-07 07:47:43,406 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"  was disconnected ( "The remote host closed the connection" )
+[ 2025-04-07 07:47:43,465 ] Disconnected from gameserver
+[ 2025-04-07 07:47:47,551 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Habla Combo" )
+[ 2025-04-07 07:47:47,554 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-07 07:47:48,068 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-07 07:47:48,503 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-07 07:58:51,553 ] Retrying to obtain clipboard.
+[ 2025-04-07 10:18:15,892 ] Retrying to obtain clipboard.
+[ 2025-04-07 10:28:57,706 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"  was disconnected ( "The remote host closed the connection" )
+[ 2025-04-07 10:28:57,765 ] Disconnected from gameserver
+[ 2025-04-07 10:29:03,379 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-07 10:29:04,137 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Habla Combo" )
+[ 2025-04-07 10:29:04,140 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-07 10:29:04,151 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-07 10:29:05,081 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-07 10:29:10,656 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342188537 found"
+[ 2025-04-07 10:29:10,656 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342188537 found"
+[ 2025-04-07 10:29:11,656 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342188506 found"
+[ 2025-04-07 10:29:11,656 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342188506 found"
+[ 2025-04-07 10:33:59,990 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-04-07 10:34:00,163 ] Using spritesheet cache size of 910
+[ 2025-04-07 10:34:00,969 ] Asset loading complete
+[ 2025-04-07 10:38:11,908 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"  was disconnected ( "The remote host closed the connection" )
+[ 2025-04-07 10:38:11,966 ] Disconnected from gameserver
+[ 2025-04-07 10:39:13,989 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-07 10:39:14,688 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Habla Combo" )
+[ 2025-04-07 10:39:14,691 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-07 10:39:14,702 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-07 10:39:15,625 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-07 10:43:18,275 ] BattlEye: "Initialized (v1.249)"
+[ 2025-04-07 10:43:18,275 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2025-04-07 10:43:18,275 ] BattlEye: "Restarting client is necessary, update required"
+[ 2025-04-07 10:43:18,275 ] BattlEye: "Config entry: GameID tibia"
+[ 2025-04-07 10:43:18,275 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2025-04-07 10:43:18,346 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Chumbo Quente" )
+[ 2025-04-07 10:43:18,354 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-07 10:43:18,365 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-07 10:43:43,622 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"  was disconnected ( "The remote host closed the connection" )
+[ 2025-04-07 10:43:43,670 ] Disconnected from gameserver
+[ 2025-04-07 10:43:43,973 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-07 10:44:35,632 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-07 10:44:36,961 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Chumbo Quente" )
+[ 2025-04-07 10:44:36,964 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-07 10:44:36,976 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-07 10:44:37,891 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-07 10:45:20,172 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"  was disconnected ( "The remote host closed the connection" )
+[ 2025-04-07 10:45:20,220 ] Disconnected from gameserver
+[ 2025-04-07 10:45:20,247 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-07 10:45:23,140 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-07 10:45:24,787 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Chumbo Quente" )
+[ 2025-04-07 10:45:24,791 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-07 10:45:24,804 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-07 10:45:25,734 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-07 10:46:30,023 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"  was disconnected ( "The remote host closed the connection" )
+[ 2025-04-07 10:46:30,056 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"  was disconnected ( "The remote host closed the connection" )
+[ 2025-04-07 10:46:30,074 ] Disconnected from gameserver
+[ 2025-04-07 10:46:30,111 ] Disconnected from gameserver
+[ 2025-04-07 10:46:34,060 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-07 10:46:35,078 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Habla Combo" )
+[ 2025-04-07 10:46:35,081 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-07 10:46:35,851 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-07 10:46:36,020 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-07 10:46:37,291 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Chumbo Quente" )
+[ 2025-04-07 10:46:37,294 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-07 10:46:38,234 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-07 10:46:39,206 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"  was disconnected ( "Connection refused" )
+[ 2025-04-07 10:46:40,205 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-07 10:46:41,422 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"  was disconnected ( "Connection refused" )
+[ 2025-04-07 10:46:42,471 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-07 10:46:42,482 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-07 10:46:42,754 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-07 10:46:50,039 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342188489 found"
+[ 2025-04-07 10:46:50,039 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342188489 found"
+[ 2025-04-07 10:47:43,224 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"  was disconnected ( "The remote host closed the connection" )
+[ 2025-04-07 10:47:43,272 ] Disconnected from gameserver
+[ 2025-04-07 10:47:43,298 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-07 10:47:51,896 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Chumbo Quente" )
+[ 2025-04-07 10:47:51,898 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-07 10:47:51,910 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-07 10:47:52,844 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-07 10:48:57,642 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342180319 found"
+[ 2025-04-07 10:48:57,811 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342180319 found"
+[ 2025-04-07 10:48:58,001 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342180319 found"
+[ 2025-04-07 10:48:58,172 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342180319 found"
+[ 2025-04-07 10:48:58,344 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342180319 found"
+[ 2025-04-07 10:48:58,515 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342180319 found"
+[ 2025-04-07 10:48:58,688 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342180319 found"
+[ 2025-04-07 10:48:58,859 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342180319 found"
+[ 2025-04-07 10:48:59,031 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342180319 found"
+[ 2025-04-07 10:48:59,206 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342180319 found"
+[ 2025-04-07 10:48:59,358 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342180319 found"
+[ 2025-04-07 10:48:59,548 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342180319 found"
+[ 2025-04-07 10:48:59,720 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342180319 found"
+[ 2025-04-07 10:52:14,023 ] Retrying to obtain clipboard.
+[ 2025-04-07 10:53:33,423 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"  was disconnected ( "The remote host closed the connection" )
+[ 2025-04-07 10:53:33,455 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"  was disconnected ( "The remote host closed the connection" )
+[ 2025-04-07 10:53:33,476 ] Disconnected from gameserver
+[ 2025-04-07 10:53:33,509 ] Disconnected from gameserver
+[ 2025-04-07 10:53:37,270 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-07 10:53:37,941 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Habla Combo" )
+[ 2025-04-07 10:53:37,946 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-07 10:53:37,956 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-07 10:53:38,890 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-07 10:53:39,127 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-07 10:53:40,258 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Chumbo Quente" )
+[ 2025-04-07 10:53:40,260 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-07 10:53:40,272 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-07 10:53:41,205 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-07 10:56:42,956 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342188489 found"
+[ 2025-04-07 10:56:42,956 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342188489 found"
+[ 2025-04-07 10:58:42,948 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342188555 found"
+[ 2025-04-07 10:58:42,948 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342188555 found"
+[ 2025-04-07 11:02:13,649 ] Retrying to obtain clipboard.
+[ 2025-04-07 11:03:56,755 ] Retrying to obtain clipboard.
+[ 2025-04-07 11:04:04,820 ] Retrying to obtain clipboard.
+[ 2025-04-07 11:05:24,599 ] Retrying to obtain clipboard.
+[ 2025-04-07 11:06:17,199 ] Retrying to obtain clipboard.
+[ 2025-04-07 11:08:19,758 ] Retrying to obtain clipboard.
+[ 2025-04-07 11:14:03,722 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"  was disconnected ( "The remote host closed the connection" )
+[ 2025-04-07 11:14:03,769 ] Disconnected from gameserver
+[ 2025-04-07 11:20:17,638 ] Retrying to obtain clipboard.
+[ 2025-04-07 11:20:38,911 ] Retrying to obtain clipboard.
+[ 2025-04-07 11:21:00,356 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"  was disconnected ( "The remote host closed the connection" )
+[ 2025-04-07 11:21:00,406 ] Disconnected from gameserver
+[ 2025-04-07 11:21:02,406 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-07 11:21:03,110 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Habla Combo" )
+[ 2025-04-07 11:21:03,113 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-07 11:21:04,063 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2025-04-07 11:21:04,650 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-07 11:39:37,906 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"  was disconnected ( "The remote host closed the connection" )
+[ 2025-04-07 11:39:37,960 ] Disconnected from gameserver
+[ 2025-04-07 11:41:19,838 ] Retrying to obtain clipboard.
+[ 2025-04-07 11:41:19,840 ] Retrying to obtain clipboard.
+[ 2025-04-07 11:41:19,890 ] Retrying to obtain clipboard.
+[ 2025-04-07 13:30:58,633 ] Retrying to obtain clipboard.
+[ 2025-04-07 13:41:52,232 ] Retrying to obtain clipboard.
+[ 2025-04-07 13:49:16,484 ] Retrying to obtain clipboard.
+[ 2025-04-07 13:49:30,011 ] Retrying to obtain clipboard.
+[ 2025-04-07 13:53:21,028 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:00:23,385 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:00:33,858 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:00:55,238 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:00:59,961 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:01:35,430 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:02:17,668 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:02:19,940 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:02:20,442 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:05:16,460 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:05:26,920 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:06:54,149 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:06:56,059 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:07:00,413 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:07:02,936 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:07:07,463 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:07:10,230 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:07:17,502 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:08:40,095 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:13:04,155 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:13:08,250 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:14:31,882 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:14:38,345 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:15:56,034 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:16:18,514 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:16:24,492 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:16:32,090 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:16:36,706 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:16:41,466 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:16:46,522 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:16:53,562 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:16:58,602 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:17:05,010 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:18:01,011 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:19:36,227 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:20:03,566 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:20:34,602 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:25:02,875 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:25:18,163 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:25:24,610 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:26:13,634 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:28:05,972 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:28:10,014 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:29:05,978 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:29:19,258 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:29:24,915 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:29:30,026 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:29:35,171 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:29:39,994 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:29:45,090 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:29:49,626 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:29:53,986 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:30:08,626 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:30:12,746 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:30:30,978 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:30:43,898 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:30:50,074 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:30:56,011 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:31:01,857 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:31:07,137 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:31:13,517 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:31:18,738 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:31:23,691 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:31:41,938 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:31:48,090 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:31:55,122 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:32:01,627 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:32:06,514 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:32:12,290 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:32:18,021 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:32:23,322 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:32:24,139 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:32:25,586 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:32:32,555 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:32:38,604 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:32:44,106 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:32:50,179 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:32:55,570 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:33:00,430 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:33:06,027 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:33:12,210 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:33:17,410 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:33:22,754 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:33:28,053 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:33:32,923 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:33:37,301 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:33:48,378 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:33:52,066 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:33:55,877 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:33:59,318 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:34:02,626 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:34:05,628 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:34:09,378 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:38:24,058 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:45:42,356 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:46:51,603 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:47:45,283 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:47:56,818 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:48:05,931 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:48:14,165 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:51:36,050 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:51:40,315 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:51:47,773 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:51:59,338 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:52:22,589 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:52:34,955 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:52:50,122 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:53:02,235 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:53:06,771 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:53:09,730 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:53:12,262 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:53:18,637 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:53:27,037 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:56:14,084 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:56:16,651 ] Retrying to obtain clipboard.
+[ 2025-04-07 14:57:47,642 ] Retrying to obtain clipboard.
+[ 2025-04-07 15:00:10,652 ] Retrying to obtain clipboard.
+[ 2025-04-07 15:00:30,524 ] Retrying to obtain clipboard.
+[ 2025-04-07 15:00:30,524 ] Retrying to obtain clipboard.
+[ 2025-04-07 15:00:30,575 ] Retrying to obtain clipboard.
+[ 2025-04-07 15:00:39,178 ] Retrying to obtain clipboard.
+[ 2025-04-07 15:02:53,517 ] Retrying to obtain clipboard.
+[ 2025-04-07 15:08:29,228 ] Retrying to obtain clipboard.
+[ 2025-04-07 15:08:34,251 ] Retrying to obtain clipboard.
+[ 2025-04-07 15:08:44,411 ] Retrying to obtain clipboard.
+[ 2025-04-07 15:08:55,915 ] Retrying to obtain clipboard.
+[ 2025-04-07 15:09:07,867 ] Retrying to obtain clipboard.
+[ 2025-04-07 15:09:19,389 ] Retrying to obtain clipboard.
+[ 2025-04-07 15:11:20,114 ] Retrying to obtain clipboard.
+[ 2025-04-07 15:11:30,980 ] Retrying to obtain clipboard.
+[ 2025-04-07 15:11:42,507 ] Retrying to obtain clipboard.
+[ 2025-04-07 15:25:18,674 ] Retrying to obtain clipboard.
+[ 2025-04-07 15:30:43,188 ] Retrying to obtain clipboard.
+[ 2025-04-07 15:30:43,188 ] Retrying to obtain clipboard.
+[ 2025-04-07 15:30:43,240 ] Retrying to obtain clipboard.
+[ 2025-04-07 15:37:36,468 ] Retrying to obtain clipboard.
+[ 2025-04-07 15:40:08,327 ] Retrying to obtain clipboard.
+[ 2025-04-07 15:41:37,695 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-04-07 15:41:37,892 ] Using spritesheet cache size of 910
+[ 2025-04-07 15:41:39,053 ] Asset loading complete
+[ 2025-04-07 15:41:50,648 ] BattlEye: "Initialized (v1.249)"
+[ 2025-04-07 15:41:50,649 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2025-04-07 15:41:50,649 ] BattlEye: "Restarting client is necessary, update required"
+[ 2025-04-07 15:41:50,649 ] BattlEye: "Config entry: GameID tibia"
+[ 2025-04-07 15:41:50,649 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2025-04-07 15:41:50,709 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Habla Combo" )
+[ 2025-04-07 15:41:50,716 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-07 15:41:50,726 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hard Baiak!"
+[ 2025-04-07 15:43:11,612 ] Retrying to obtain clipboard.

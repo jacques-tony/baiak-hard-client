@@ -12,9 +12,9 @@
         "clientWindowHeight": 650,
         "clientWindowIsBorderless": false,
         "clientWindowIsMaximized": true,
-        "clientWindowPositionX": 1920,
-        "clientWindowPositionY": 31,
-        "clientWindowScreenName": "\\\\.\\DISPLAY2",
+        "clientWindowPositionX": 796,
+        "clientWindowPositionY": 11,
+        "clientWindowScreenName": "\\\\.\\DISPLAY1",
         "clientWindowWidth": 1020
     },
     "controlButtonsOptions": {
@@ -49,7 +49,7 @@
     },
     "hotkeyOptions": {
         "autoSwitchHotkeyPreset": true,
-        "currentHotkeySetName": "Knight",
+        "currentHotkeySetName": "Paladin",
         "hotkeySets": {
             "Druid": {
                 "actionBarOptions": {
@@ -850,14 +850,6 @@
                     "mappings": [
                         {
                             "actionBar": 1,
-                            "actionButton": 9,
-                            "actionsetting": {
-                                "chatText": "exori mas",
-                                "sendAutomatically": true
-                            }
-                        },
-                        {
-                            "actionBar": 1,
                             "actionButton": 1,
                             "actionsetting": {
                                 "chatText": "exura ico",
@@ -866,9 +858,9 @@
                         },
                         {
                             "actionBar": 1,
-                            "actionButton": 10,
+                            "actionButton": 9,
                             "actionsetting": {
-                                "chatText": "/ghost",
+                                "chatText": "exori mas",
                                 "sendAutomatically": true
                             }
                         },
@@ -882,9 +874,9 @@
                         },
                         {
                             "actionBar": 1,
-                            "actionButton": 11,
+                            "actionButton": 10,
                             "actionsetting": {
-                                "chatText": "exori",
+                                "chatText": "/ghost",
                                 "sendAutomatically": true
                             }
                         },
@@ -898,10 +890,10 @@
                         },
                         {
                             "actionBar": 1,
-                            "actionButton": 12,
+                            "actionButton": 11,
                             "actionsetting": {
-                                "useObject": 32711,
-                                "useType": "SelectUseTarget"
+                                "chatText": "exori",
+                                "sendAutomatically": true
                             }
                         },
                         {
@@ -910,6 +902,14 @@
                             "actionsetting": {
                                 "chatText": "exori mas",
                                 "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 12,
+                            "actionsetting": {
+                                "useObject": 32711,
+                                "useType": "SelectUseTarget"
                             }
                         },
                         {
@@ -3234,7 +3234,7 @@
         "emergencyDialogVersion": 0,
         "frameRateLimit": 60,
         "frameRateLimitEnabled": true,
-        "gameWindowLowerPaneHeight": 299,
+        "gameWindowLowerPaneHeight": 261,
         "gameWindowResizingMode": 0,
         "gameWindowScaleOnlyByEvenMultiples": false,
         "gameWindowShowBoostedCreatureMessages": true,
@@ -3251,7 +3251,7 @@
         "gameWindowShowTargetHighlight": true,
         "gameWindowShowTextualEffects": true,
         "gameWindowShowTragetFrame": true,
-        "gameWindowUpperPaneHeight": 469,
+        "gameWindowUpperPaneHeight": 687,
         "inspectPlayerAllowAllEnabled": false,
         "keyboardDelayMs": 250,
         "keyboardDelayUseDefault": true,
@@ -3260,7 +3260,7 @@
         "lightEffectsEnabled": true,
         "lightLevelSeparatorLevel": 0.800000011920929,
         "linkCopyWarningEnabled": true,
-        "loginEmailAddress": "god@god.com",
+        "loginEmailAddress": "jakiin.tr@gmail.com",
         "lootSchemeIndex": 0,
         "marketShowLockerOnly": false,
         "mouseAnimatedCursor": true,

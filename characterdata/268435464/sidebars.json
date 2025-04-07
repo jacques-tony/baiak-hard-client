@@ -61,7 +61,7 @@
         "contentMaximized": true
     },
     "deoptSearchWidgetOptions": {
-        "contentHeight": 0,
+        "contentHeight": 350,
         "contentMaximized": true,
         "showLockerOnly": false
     },
@@ -120,13 +120,17 @@
         "chaseModeEnabled": false,
         "combatMode": 1,
         "controlButtonsVisible": true,
-        "minimapZoomLevel": 100,
+        "minimapZoomLevel": 200,
         "minimizeInventory": false
     },
     "sidebarWidgetsMangerOptions": {
         "leftSidebarCount": 0,
         "openWidgetsOrderPerSidebar": [
             [
+                {
+                    "instance": 0,
+                    "type": "container"
+                }
             ],
             [
                 {
