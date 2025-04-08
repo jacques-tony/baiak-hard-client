@@ -1,0 +1,11 @@
+bin/*
+cache/*
+characterdata/*
+log/*
+minimap/*
+screenshots/*
+sounds/*
+
+assets.json
+package.json
+conf/clientoptions.json
