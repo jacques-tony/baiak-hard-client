@@ -1,9 +1,0 @@
-{
-    "blacklistTypes": [
-    ],
-    "listType": "whitelist",
-    "whitelistTypes": [
-        3031,
-        44602
-    ]
-}
