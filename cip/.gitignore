@@ -5,6 +5,4 @@ minimap/*
 screenshots/*
 sounds/*
 storeimages/*
-assets.json
-package.json
 conf/clientoptions.json
